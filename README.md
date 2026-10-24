@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Naveen Kumar Nittu 👋
 
-<!--
-**naveennovell/naveennovell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer II at Blue Yonder** with 5+ years of experience in backend engineering.
 
-Here are some ideas to get you started:
+I build **Java**, **Spring Boot**, and **microservices** solutions, including **REST and GraphQL APIs**. My experience includes **PostgreSQL**, **Kafka**, and **Azure**, with a focus on **payments** and **supply chain**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I value **end-to-end ownership**, **product-minded problem solving**, and **platform thinking**—building reliable, scalable services that help deliver simpler customer experiences.
+
+### Core technologies
+
+**Java** · **Spring Boot** · **Microservices** · **REST** · **GraphQL** · **PostgreSQL** · **Kafka** · **Azure**
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/naveenkumar-nittu11/)
